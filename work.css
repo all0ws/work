@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+a{
+    
+    text-decoration: none;
+}
+.link-header{
+    margin-right: 35px;
+    position: absolute;
+    top: 23px;
+    right: 0;
+    color: white;
+    font-size: 25px;
+}
+.link-header:hover{
+    color: darkmagenta;
+    transition: 0.2s;
+}
+.link-text:hover{
+    color: darkmagenta;
+    transition: 0.2s;
+}
+h1{
+    color: white;
+}
+
+
+header{
+    background-color: black;
+}
+.head{
+    display: inline-block;
+}
+.text-big{
+    font-size: 35px;
+}
+.link-text{
+    color: blue;
+}
+.link-text{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+}
